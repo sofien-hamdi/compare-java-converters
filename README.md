@@ -8,3 +8,5 @@ Frameworks compared:
 - Dozer
 - MapStruct
 - Manual mapping code
+
+TODO : JMapper example !
